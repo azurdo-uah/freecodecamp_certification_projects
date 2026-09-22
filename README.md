@@ -8,4 +8,4 @@ using the free online python course at freeCodeCamp. This course, alongside thor
 includes countless interactive interactive programming workshops to put to test my learning. Included are also several certification projects, 
 spread out between modules, that allow me to display the skills and knowledge I have gained whilst parttaking in this course.
 
-This repository was created to store all of these certification projects.
+This repository was created to store all of these certification projects and workshops.
